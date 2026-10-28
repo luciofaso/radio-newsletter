@@ -1,0 +1,5 @@
+python-dotenv
+requests
+trafilatura
+lxml
+boto3
